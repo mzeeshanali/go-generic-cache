@@ -21,7 +21,7 @@ Ensure you have Go installed on your machine. You can download it from [the offi
 2. To Run:
    
    ```bash
-   go run main.go
+   go run .
    ```
 ## Usage
 ### Time-Based Cache
